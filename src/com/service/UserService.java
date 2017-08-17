@@ -3,9 +3,7 @@ package com.service;
 import com.dao.UserDao;
 import com.model.User;
 
-/**
- * Created by Zeo Dragoneel on 12-07-2017.
- */
+
 public class UserService {
 
     UserDao userDao;

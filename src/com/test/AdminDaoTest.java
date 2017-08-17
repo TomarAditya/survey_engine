@@ -6,9 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by Zeo Dragoneel on 13-07-2017.
- */
+
 public class AdminDaoTest {
 
 

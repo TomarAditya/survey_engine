@@ -3,9 +3,7 @@ package com.service;
 import com.dao.AdminDao;
 import com.model.*;
 
-/**
- * Created by Zeo Dragoneel on 12-07-2017.
- */
+
 public class AdminService {
     AdminDao adminDao;
 

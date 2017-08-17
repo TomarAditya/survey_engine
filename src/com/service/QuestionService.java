@@ -6,9 +6,7 @@ import com.model.Question;
 
 import java.util.ArrayList;
 
-/**
- * Created by Zeo Dragoneel on 12-07-2017.
- */
+
 public class QuestionService {
 
     QuestionDao questionDao;

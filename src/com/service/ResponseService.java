@@ -3,9 +3,7 @@ package com.service;
 import com.dao.ResponseDao;
 import com.model.Choices;
 
-/**
- * Created by Zeo Dragoneel on 12-07-2017.
- */
+
 public class ResponseService {
     ResponseDao responseDao;
 

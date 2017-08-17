@@ -9,9 +9,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-/**
- * Created by Zeo Dragoneel on 12-07-2017.
- */
 public class ResponseDao {
 
     SqlFactory sqlFactory;

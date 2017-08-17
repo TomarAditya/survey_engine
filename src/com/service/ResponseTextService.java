@@ -2,9 +2,7 @@ package com.service;
 
 import com.dao.ResponseTextDao;
 
-/**
- * Created by Zeo Dragoneel on 12-07-2017.
- */
+
 public class ResponseTextService {
     ResponseTextDao responseTextDao;
 

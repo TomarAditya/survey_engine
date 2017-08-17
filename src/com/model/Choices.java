@@ -1,8 +1,6 @@
 package com.model;
 
-/**
- * Created by Zeo Dragoneel on 11-07-2017.
- */
+
 public class Choices {
 
     float choice1,choice2,choice3,choice4;

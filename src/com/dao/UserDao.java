@@ -9,9 +9,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- * Created by Zeo Dragoneel on 11-07-2017.
- */
 public class UserDao {
 
         SqlFactory sqlFactory;
