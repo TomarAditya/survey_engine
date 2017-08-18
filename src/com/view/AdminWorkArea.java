@@ -18,7 +18,7 @@ public class AdminWorkArea {
 	    label3=new JLabel("Report Generation");  
 	    label3.setBounds(50,250, 200,30);  
 
-	    frame.add(label1); frame.add(label2);frame.add(label3);  
+	    frame.add(label1); frame.add(label2);  
 	    
 	    
 	    JButton button1=new JButton("Survey Related");  
@@ -65,7 +65,7 @@ public class AdminWorkArea {
 		    }  
 	    });
 
-	    frame.add(button1);frame.add(button2);frame.add(button3);frame.add(button4);
+	    frame.add(button1);frame.add(button2);frame.add(button4);
 		frame.setSize(800,600);
 		frame.setLayout(null);
 	    frame.setVisible(true);   
